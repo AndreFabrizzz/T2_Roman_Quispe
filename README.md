@@ -11,3 +11,7 @@ Evaluacion 02 - Evaluacion y practicas con Git.
 
 ## Control de cambios
 Se realizaron modificaciones para practicar el control del Working Directory y el Staging Area en GIT
+
+## Gestión de ramas
+Rama utilizada: feature-roman
+Se creo la clase ControlVersion_Roman.java como cambio en una rama y desarrollo independiente.
